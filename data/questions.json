@@ -1021,7 +1021,7 @@
     "type": "folder",
     "parentId": null,
     "isCollapsed": true,
-    "isInPool": false
+    "isInPool": true
   },
   {
     "id": "f-1770883923118",
@@ -1645,7 +1645,7 @@
     "type": "folder",
     "parentId": null,
     "isCollapsed": true,
-    "isInPool": false
+    "isInPool": true
   },
   {
     "id": "f-1771479173478",
